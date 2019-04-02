@@ -1,3 +1,4 @@
+//hello
 #include<stdio.h>
 void sqfour();
 void one();
