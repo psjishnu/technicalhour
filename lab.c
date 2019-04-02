@@ -33,7 +33,7 @@ void sqfour()
 		printf("expre is C");
 	else if(a[0][2]==1 && a[1][2]==1 && a[0][3]==1 && a[1][3]==1)
 		printf("expre is B");
-	else if(1 && a[0][3]==1 && a[1][3]==1 && a[0][0]==1 && a[0][1]==1)
+	else if(1 && a[0][3]==1 && a[1][3]==1 && a[0][0]==1 && a[1][0]==1)
 		printf("expre is c");
 	else if(a[0][0]==1 && a[0][1]==1 && a[0][2]==1 && a[0][3]==1)
 		printf("expr is a");
